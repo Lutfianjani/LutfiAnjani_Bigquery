@@ -1,0 +1,21 @@
+produk_id,nama_produk,stok,harga_satuan,kategori
+101,Produk A,1200,5000,Elektronik
+102,Produk B,800,3500,Peralatan Dapur
+103,Produk C,600,4500,Elektronik
+104,Produk D,1000,4000,Peralatan Kantor
+105,Produk E,750,3000,Rumah Tangga
+106,Produk F,500,2000,Elektronik
+107,Produk G,950,1500,Mainan Anak
+108,Produk H,700,2500,Olahraga
+109,Produk I,650,3200,Rumah Tangga
+110,Produk J,900,2800,Peralatan Dapur
+111,Produk K,850,2200,Peralatan Kantor
+112,Produk L,400,4200,Elektronik
+113,Produk M,500,3000,Mainan Anak
+114,Produk N,600,2500,Olahraga
+115,Produk O,550,3700,Rumah Tangga
+116,Produk P,800,1800,Peralatan Kantor
+117,Produk Q,720,2600,Elektronik
+118,Produk R,880,2000,Mainan Anak
+119,Produk S,670,3400,Olahraga
+120,Produk T,760,4100,Elektronik
